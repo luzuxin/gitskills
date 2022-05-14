@@ -1,2 +1,2 @@
-print('gfag')
-print('gaghh')
+print('gfa')
+print('bendan')
